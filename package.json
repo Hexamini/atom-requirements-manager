@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "test:toggle"
+    "atom-workspace": "atom-requirements-manager:toggle"
   },
   "repository": "https://github.com/Hexamini/atom-requirements-manager",
   "license": "MIT",
