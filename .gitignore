@@ -1,0 +1,10 @@
+.DS_Store
+
+# Log
+npm-debug.log
+
+# Node modules
+node_modules
+
+# Temporary files
+*.*~
