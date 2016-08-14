@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "atom-requirements-manager",
   "main": "./lib/index",
   "version": "0.0.1",
   "description": "A short description of your package",
