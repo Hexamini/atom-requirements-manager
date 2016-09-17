@@ -12,14 +12,17 @@
 .rq_header {
   background-color: @panel-heading-background-color;
   border: 1px solid @panel-heading-border-color;
-  overflow: auto;
+}
+
+.rq_nav {
+  float: left;
 }
 
 .rq_btn-nav {
   border: 0;
+  display: inline;
   background-color: @button-background-color;
   padding: @component-padding;
-  float: left;
   font-size: 1.5em;
 }
 
@@ -34,10 +37,10 @@
 .rq_page-title {
   background-color: @background-color-info;
 
-  #text {
+  .text {
     color: @text-color-highlight;
-    margin: 0;
     padding: @component-padding;
     text-align: center;
+    font-size: 1.5em;
   }
 }
